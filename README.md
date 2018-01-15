@@ -1,6 +1,6 @@
-# homework1
-## webpage
+# Homework1
+## Webpage
 * item1
 * item2
-## mybar
-[Link MD](https://Penpanch.github.io/homework1/web)
+## MyProfile
+[Link Profile](https://Penpanch.github.io/homework1/web)
