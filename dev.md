@@ -41,7 +41,7 @@ _A list commands you have learn
 | `git push` | Push changes to remote repository (remembered branch) |
 | `git pull` | Update local repository to the newest commit |
 | `git pull origin [branch name]` | Pull changes from remote repository |
-| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
+| `git remote add origin https://github.com/[username]/[repository-name].git` | Add a remote repository |
 
 ### Inspection & Comparison
 
