@@ -1,5 +1,5 @@
-git commit
-ต่อมา เราจะทำการ commit ด้วยคำสั่ง git commit -m "YOUR MESSAGE" ฉะนั้น commit แรกผมจะใส่ข้อความบอกไว้ว่า ได้ทำการเพิ่มไฟล์ index แล้วนะ ดังนี้
+# git commit
+### เป็นการ commit ด้วยคำสั่ง git commit -m "YOUR MESSAGE" ดังนี้
 
 git commit -m "add sample index page"
 
