@@ -1,8 +1,4 @@
-There are many Git workflows out there, I heavily suggest also reading the atlassian.com [Git Workflow][article] article as there is more detail then presented here.  
 
-The two prevailing workflows are [Gitflow][gitflow] and [feature branches][feature]. IMHO, being more of a subscriber to continuous integration, I feel that the feature branch workflow is better suited. 
-
-When using Bash in the command line, it leaves a bit to be desired when it comes to awareness of state. I would suggest following these instructions on [setting up GIT Bash autocompletion][git-auto].
 
 ## Basic branching
 
